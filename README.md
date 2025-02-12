@@ -43,6 +43,11 @@ The dataset (Stock_Data.csv) consists of 233 rows and includes:
 - Stock prices exhibit short-term fluctuations, but long-term trends align with moving averages.
 - Volatility analysis reveals periods of high uncertainty in the market.
 - Daily returns follow a near-normal distribution, but outliers indicate sharp market movements.
+- Stock prices tend to respect support and resistance levels, as seen in moving average trends.
+- High volatility is often followed by a correction phase, suggesting market stabilization after large price movements.
+- Large spikes in trading volume tend to coincide with sharp price movements, indicating high investor activity.
+- Crossovers between the 20-day & 50-day moving averages can signal potential buy or sell opportunities.
+- Periods of low volatility often precede strong price trends, making volatility a key market indicator.
 
 ## 📊 Visualizations
 
