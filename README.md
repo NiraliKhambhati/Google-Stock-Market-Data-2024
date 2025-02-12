@@ -30,8 +30,11 @@ The dataset (Stock_Data.csv) consists of 233 rows and includes:
 ## 📈 Stock Market Analysis
 
 1️⃣ Data Cleaning & Preparation
-✅ Fixed column headers & converted data types.
-✅ Handled missing values & duplicate entries.
+
+- ✅ Fixed column headers & converted data types.
+- ✅ Handled missing values & duplicate entries.
+
+![Stock Prices & Moving Averages](images/stock_trend.png)
 
 2️⃣ Key Financial Metrics
 ✅ Moving Averages → Computed 20-day & 50-day moving averages.
