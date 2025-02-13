@@ -56,8 +56,6 @@ The dataset (Stock_Data.csv) consists of 233 rows and includes:
 - 📊 Stock Volatility Over Time
 - 📉 Distribution of Daily Returns
 
-## 📷 Example Visuals
-
 ## 📎 How to Use
 ## 🖥️ Clone the repository:
 git clone https://github.com/NiraliKhambhati/Stock-Market-Analysis.git
